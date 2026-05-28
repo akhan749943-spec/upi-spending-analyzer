@@ -4,7 +4,7 @@
 
 
 
-!\[Dashboard Preview](visuals/dashboard\_page1\_overview.png)
+!\[Dashboard Preview](Visuals/dashboard\_page1\_overview.png)
 
 
 
@@ -54,19 +54,19 @@ helps identify overspending categories, behavioral patterns, and saving opportun
 
 **Page 1 - Overview**
 
-!\[Overview](visuals/dashboard\_page1\_overview.png)
+!\[Overview](Visuals/dashboard\_page1\_overview.png)
 
 
 
 **Page 2 - Behaviour \& Anomalies**
 
-!\[Behaviour](visuals/dashboard\_page2\_behavior.png)
+!\[Behaviour](Visuals/dashboard\_page2\_behavior.png)
 
 
 
 **Page 3 - Saving Intelligence**
 
-!\[Saving](visuals/dashboard\_page3\_saving.png)
+!\[Saving](Visuals/dashboard\_page3\_saving.png)
 
 
 
