@@ -169,15 +169,12 @@ UPI-Spending-Analyzer/
 ## **Author**
 
 
-**ASIF KHAN**
+### **ASIF KHAN**
+#### ***Data Analyst | Python | SQL | Power BI | Tableau | Excel***
 
-**Data Analyst | Python | SQL | Power BI | Tableau | Excel**
+* **[LinkedIn]** - ***https://www.linkedin.com/in/asif-khan-data-analyst/***
 
-
-
-**[LinkedIn]** - ***https://www.linkedin.com/in/asif-khan-data-analyst/***
-
-**[Gmail]** - ***akhan749943@gmail.com***
+* **[Gmail]** - ***akhan749943@gmail.com***
 
 
 
