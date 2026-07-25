@@ -170,7 +170,7 @@ UPI-Spending-Analyzer/
 
 
 ### **ASIF KHAN**
-#### ***Data Analyst | Python | SQL | Power BI | Tableau | Excel***
+#### ***Data Analyst | Python | SQL | Power BI | Statistics | Tableau | Excel***
 
 * **[LinkedIn]** - ***https://www.linkedin.com/in/asif-khan-data-analyst/***
 
